@@ -1,10 +1,10 @@
 {
-  "name": "theme-starter",
-  "title": "Starer Theme",
-  "displayName": "Starer Theme",
+  "name": "Mint-Y-Yltra-Dark",
+  "title": "Mint-Y-Yltra-Dark",
+  "displayName": "Mint-Y-Yltra-Dark",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "A dark theme made to match Mint-Y-Yltra-Dark for Cinnamon DE",
   "license": "GPL-3.0",
   "engines": {
     "mailspring": "*"
